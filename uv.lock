@@ -86,7 +86,7 @@ wheels = [
 ]
 
 [[package]]
-name = "pytoolkit-template"
+name = "pytoolkit-metadata"
 version = "0.1.0"
 source = { editable = "." }
 
