@@ -1,6 +1,6 @@
 [project]
 name = "pytoolkit-metadata"
-version = "0.1.0"
+version = "v2025.07.11"
 description = "pyproject.toml metadata parser"
 readme = "README.md"
 requires-python = ">=3.13"
