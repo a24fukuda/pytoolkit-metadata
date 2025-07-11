@@ -87,7 +87,7 @@ wheels = [
 
 [[package]]
 name = "pytoolkit-metadata"
-version = "0.1.0"
+version = "2025.7.11"
 source = { editable = "." }
 
 [package.dev-dependencies]
