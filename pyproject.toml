@@ -1,8 +1,10 @@
 [project]
 name = "pytoolkit-metadata"
-version = "v2025.07.12.02"
+version = "v2025.07.16.01"
 description = "pyproject.toml metadata parser"
 readme = "README.md"
+license = "MIT"
+license-files = ["LICENSE"]
 requires-python = ">=3.13"
 dependencies = []
 
